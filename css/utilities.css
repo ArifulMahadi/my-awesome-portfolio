@@ -26,3 +26,18 @@
     border-color: rgb(96, 253, 238);
     color: rgb(96, 253, 238);
 }
+.btn-secondary{
+    color: rgb(96, 253, 238);
+    background-color: transparent;
+    border-color: rgb(96, 253, 238);
+}
+.btn-secondary:hover{
+    background-color: rgb(96, 253, 238);
+    color: black;
+}
+.flex-1{
+    flex: 1;
+}
+.justify-center{
+    justify-content: center;
+}
